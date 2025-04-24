@@ -78,7 +78,7 @@ const HeroSection = () => {
           <div className="w-64 relative h-64 md:w-80 md:h-80 bg-gradient-to-br  from-purple to-purple-light rounded-full relative flex items-center justify-center overflow-hidden border-8 border-white shadow-lg">
           
             <img 
-              src="https://static.vecteezy.com/system/resources/thumbnails/005/544/718/small_2x/profile-icon-design-free-vector.jpg" 
+              src="https://i.postimg.cc/Pf77DFqZ/kunal.jpg" 
               alt="Kunal Sarpal" 
               className="w-full absolute  h-full object-cover"
             />
