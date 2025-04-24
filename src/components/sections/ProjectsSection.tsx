@@ -26,7 +26,7 @@ const ProjectsSection = () => {
       image: "https://logos-download.com/wp-content/uploads/2018/07/Project_logo_eng.svg",
       technologies: ["TypeScript", "React.js", "Tailwind CSS", "PostgreSQL"],
       link: "https://medium-clone.example.com",
-      github: "https://github.com/example/medium-clone"
+      github: "https://github.com/Kunal-Sarpal/Medium"
     }
   ];
 
